@@ -1,0 +1,109 @@
+html{
+  background-color: #8989c2;
+  
+}
+
+body {
+  text-align: center;
+  border: ;
+  padding: 1px;
+	border-radius: 10px;
+  background-color: white;
+  height: 55%;
+  width: 20%;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+Img{
+  text-align: left;
+  position: absolute;
+  top: -45%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  padding: 90px;
+  padding-bottom: 100px;
+}
+
+input {
+  padding: 5px;
+  border: none;
+  outline: none;
+  border-radius: 15px;
+  align-items: center;
+}
+
+.oli {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+}
+.oli:hover {
+  background-color: #C0C0C0;
+  color: white;
+}
+
+.adr {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+}
+.adr:hover {
+  background-color:  #C0C0C0 ;
+  color: white;
+}
+
+.btn {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  font-size: 16px;
+  margin: 5px 10px;
+  transition: 0.3s;
+}
+.btn:hover {
+  background-color: #0a0a23;
+  color: white;
+}
+
+.cta {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  font-size: 16px;
+  margin: 5px 10px;
+  transition: 0.3s;
+}
+.cta:hover {
+  background-color: #ab1130 ;
+  color: white;
+}
+
+div{
+  align-items: center ;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  padding: 90px;
+  border-radius: 15px;
+}
+
+
+
